@@ -1,1 +1,2 @@
+1
 It is C txt file
